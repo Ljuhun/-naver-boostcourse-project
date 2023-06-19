@@ -17,7 +17,7 @@
   - **JSP & Servlet : scope, redirect, forward, JSTL, EL, Response by using JSON**
   - **MySQL, JDBC, Maven**
   
-![todo]
+![프로젝트2 구현](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/46fdfccc-3803-41fe-9008-9895b64a2a0a)
 
 -----
 
