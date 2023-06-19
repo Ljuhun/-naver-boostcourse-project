@@ -35,7 +35,7 @@
 
 ### 프로젝트 설명
 - [Boostcourse] - WEB Programing Project-B
-- '할 일 관리' 웹 페이지를 개발하 프로젝트입니다
+- '할 일 관리' 웹 페이지를 개발하는 프로젝트입니다
 - '할 일 관리'는 해야 할 일, 하고 있는 일, 한 일을 웹 브라우저에서 확인할 수 있는 웹 애플리케이션입니다.
 - [프로젝트 기획서](https://docs.google.com/presentation/d/163ZmA14C4OGB85QnlXMOo9vO9KFN3YzXYbTYPW7wngs/edit#slide=id.p4)
 - [기술요구사항](https://github.com/Ljuhun/naver-boostcourse-project/wiki/project02)
