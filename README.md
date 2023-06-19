@@ -9,6 +9,12 @@
   <img src='https://img.shields.io/static/v1?label=Servlet&message=3.1&color=lightgrey'/>
 </p>
 
+### 프로젝트 설명
+- [Boostcourse] - WEB Programing Project-A
+- [나를 소개하는 웹페이지를 만드는 프로젝트입니다](https://github.com/Ljuhun/naver-boostcourse-project/wiki/project01)
+- [프로젝트 기획서](https://docs.google.com/presentation/d/1Q0qZO7mEh5VFcm2riFsP0XViNaKUP7Bj5NCjiia3hyo/edit#slide=id.g7b8037d172_0_0)
+- [기술요구사항](https://github.com/Ljuhun/naver-boostcourse-project/wiki/project01)
+
 ![프로젝트1 구현 영상](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/871e7114-8c4a-41ba-96a0-1ce1c7891c86)
 
 -----
@@ -26,6 +32,15 @@
   <img src='https://img.shields.io/static/v1?label=MySQL&message=8.0&color=lightgrey'/>
   <img src='https://img.shields.io/static/v1?label=Servlet&message=3.1&color=lightgrey'/>
 </p>
+
+### 프로젝트 설명
+- [Boostcourse] - WEB Programing Project-C~F
+- 네이버 예약 서비스 클론 프로젝트입니다
+- 전시, 연극, 뮤지컬 등의 콘텐츠가 보이고, 각 아이템을 예약할 수 있습니다
+- [프로젝트 기획서](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D%EC%84%9C)
+- [기술요구사항](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EA%B8%B0%EC%88%A0%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
+- [데이터베이스 - ERD](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4---ERD)
+- [API 명세서](http://49.236.147.192:9090/swagger-ui.html)
 
 ![프로젝트2 구현](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/46fdfccc-3803-41fe-9008-9895b64a2a0a)
 
@@ -48,7 +63,16 @@
   <img src='https://img.shields.io/static/v1?label=Handlebar&message=.&color=success'/>
   <img src='https://img.shields.io/static/v1?label=JQuery&message=.&color=important'/>
 </p>
- 
+
+### 프로젝트 설명
+- [Boostcourse] - WEB Programing Project-C~F
+- 네이버 예약 서비스 클론 프로젝트입니다
+- 전시, 연극, 뮤지컬 등의 콘텐츠가 보이고, 각 아이템을 예약할 수 있습니다
+- [프로젝트 기획서](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D%EC%84%9C)
+- [기술요구사항](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EA%B8%B0%EC%88%A0%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
+- [데이터베이스 - ERD](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4---ERD)
+- [API 명세서](http://49.236.147.192:9090/swagger-ui.html)
+
 ### 메인페이지
   - 예약 홍보 이미지 슬라이드
 <p align="center"><img src="https://user-images.githubusercontent.com/32856129/99910445-666d0400-2d31-11eb-8a96-3d0332356048.gif"></p>
