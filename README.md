@@ -48,16 +48,7 @@
   <img src='https://img.shields.io/static/v1?label=Handlebar&message=.&color=success'/>
   <img src='https://img.shields.io/static/v1?label=JQuery&message=.&color=important'/>
 </p>
-
-## 프로젝트 설명
-- [Boostcourse] - WEB Programing Project-C~F
-- 네이버 예약 서비스 클론 프로젝트입니다
-- 전시, 연극, 뮤지컬 등의 콘텐츠가 보이고, 각 아이템을 예약할 수 있습니다
-- [프로젝트 기획서](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D%EC%84%9C)
-- [기술요구사항](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EA%B8%B0%EC%88%A0%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
-- [데이터베이스 - ERD](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4---ERD)
-- [API 명세서](http://49.236.147.192:9090/swagger-ui.html)
-  
+ 
 ### 메인페이지
   - 예약 홍보 이미지 슬라이드
 <p align="center"><img src="https://user-images.githubusercontent.com/32856129/99910445-666d0400-2d31-11eb-8a96-3d0332356048.gif"></p>
