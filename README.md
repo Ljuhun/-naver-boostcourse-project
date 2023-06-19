@@ -2,21 +2,31 @@
 **부스트코스 규정에 의해 소스코드는 공개하지 않습니다.**
 
 ### [프로젝트01. 나를 소개하는 홈페이지 만들기](https://www.edwith.org/boostcourse-web/project/4/content/3#summary)
-- **사용 기술스택**
-  - **HTML, CSS Layout**
-  - **Servlet**
+<p align="left">
+<!-- tag -->
+  <img src='https://img.shields.io/static/v1?label=HTML5&message=.&color=success'/>
+  <img src='https://img.shields.io/static/v1?label=CSS3&message=.&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=Servlet&message=3.1&color=lightgrey'/>
+</p>
 
 ![프로젝트1 구현 영상](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/871e7114-8c4a-41ba-96a0-1ce1c7891c86)
 
 -----
 
 ### [프로젝트02. TO-DO LIST 구현 하기](https://www.edwith.org/boostcourse-web/project/7/content/6#summary)
-- **사용 기술스택**
-  - **HTML, CSS Layout**
-  - **Javascript : XMLHttpRequest, Ajax, DOM API**
-  - **JSP & Servlet : scope, redirect, forward, JSTL, EL, Response by using JSON**
-  - **MySQL, JDBC, Maven**
-  
+<p align="left">
+<!-- tag -->
+  <img src='https://img.shields.io/static/v1?label=HTML5&message=.&color=success'/>
+  <img src='https://img.shields.io/static/v1?label=CSS3&message=.&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=Javascript&message=ES6&color=important'/>
+  <img src='https://img.shields.io/static/v1?label=SpringFramework&message=5.2.5&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=Maven&message=.&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=Tomcat&message=8.5&color=important'/>
+  <img src='https://img.shields.io/static/v1?label=SpringJDBC&message=5.2.5&color=important'/>
+  <img src='https://img.shields.io/static/v1?label=MySQL&message=8.0&color=lightgrey'/>
+  <img src='https://img.shields.io/static/v1?label=Servlet&message=3.1&color=lightgrey'/>
+</p>
+
 ![프로젝트2 구현](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/46fdfccc-3803-41fe-9008-9895b64a2a0a)
 
 -----
