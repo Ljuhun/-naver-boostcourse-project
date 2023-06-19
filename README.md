@@ -22,11 +22,31 @@
 -----
 
 ### [프로젝트03. 네이버 예약서비스 : 메인페이지](https://www.edwith.org/boostcourse-web/project/8/content/7)
-- **사용 기술스택**
-  - **HTML5, CSS3 transition, transform**
-  - **Javascrupt : ES6, HMLHttpRequest, Ajax, DOM API, templating**
-  - **Spring 4.0 : spring-context, spring-webmvc, spring-jdbc, spring-tx**
-  - **RESTful API(WEB API), JSON, Layered Architecture, Maven**
+<p align="middle">
+<!-- tag -->
+  <img src='https://img.shields.io/static/v1?label=HTML5&message=.&color=success'/>
+  <img src='https://img.shields.io/static/v1?label=CSS3&message=.&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=Javascript&message=ES6&color=important'/>
+  <img src='https://img.shields.io/static/v1?label=Java&message=1.8&color=yellow'/>
+  <img src='https://img.shields.io/static/v1?label=Servlet&message=3.1&color=lightgrey'/>
+  <img src='https://img.shields.io/static/v1?label=SpringFramework&message=5.2.5&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=SpringMVC&message=5.2.5&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=Maven&message=.&color=blue'/>
+  <img src='https://img.shields.io/static/v1?label=Tomcat&message=8.5&color=important'/>
+  <img src='https://img.shields.io/static/v1?label=SpringJDBC&message=5.2.5&color=important'/>
+  <img src='https://img.shields.io/static/v1?label=MySQL&message=8.0&color=lightgrey'/>
+  <img src='https://img.shields.io/static/v1?label=Handlebar&message=.&color=success'/>
+  <img src='https://img.shields.io/static/v1?label=JQuery&message=.&color=important'/>
+</p>
+
+## 프로젝트 설명
+- [Boostcourse] - WEB Programing Project-C~F
+- 네이버 예약 서비스 클론 프로젝트입니다
+- 전시, 연극, 뮤지컬 등의 콘텐츠가 보이고, 각 아이템을 예약할 수 있습니다
+- [프로젝트 기획서](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D%EC%84%9C)
+- [기술요구사항](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EA%B8%B0%EC%88%A0%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
+- [데이터베이스 - ERD](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4---ERD)
+- [API 명세서](http://49.236.147.192:9090/swagger-ui.html)
   
 ### 메인페이지
   - 예약 홍보 이미지 슬라이드
