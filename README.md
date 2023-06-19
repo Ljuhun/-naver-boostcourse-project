@@ -6,7 +6,7 @@
   - **HTML, CSS Layout**
   - **Servlet**
 
-![aboutme]
+![프로젝트1 구현 영상](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/871e7114-8c4a-41ba-96a0-1ce1c7891c86)
 
 -----
 
