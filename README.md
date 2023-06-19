@@ -28,4 +28,4 @@
   - **Spring 4.0 : spring-context, spring-webmvc, spring-jdbc, spring-tx**
   - **RESTful API(WEB API), JSON, Layered Architecture, Maven**
   
-  ![reservation_mainpage]
+[  ![reservation_mainpage]](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/c57302ba-07da-4b1e-9154-c71e6a8b574f)https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/c57302ba-07da-4b1e-9154-c71e6a8b574f
