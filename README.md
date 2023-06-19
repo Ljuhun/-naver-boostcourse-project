@@ -45,7 +45,7 @@
 
 -----
 
-### [프로젝트03. 네이버 예약서비스 : 메인페이지](https://www.edwith.org/boostcourse-web/project/8/content/7)
+### [프로젝트03. 네이버 예약서비스](https://www.edwith.org/boostcourse-web/project/8/content/7)
 <p align="middle">
 <!-- tag -->
   <img src='https://img.shields.io/static/v1?label=HTML5&message=.&color=success'/>
