@@ -34,13 +34,12 @@
 </p>
 
 ### 프로젝트 설명
-- [Boostcourse] - WEB Programing Project-C~F
-- 네이버 예약 서비스 클론 프로젝트입니다
-- 전시, 연극, 뮤지컬 등의 콘텐츠가 보이고, 각 아이템을 예약할 수 있습니다
-- [프로젝트 기획서](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D%EC%84%9C)
-- [기술요구사항](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EA%B8%B0%EC%88%A0%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
-- [데이터베이스 - ERD](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4---ERD)
-- [API 명세서](http://49.236.147.192:9090/swagger-ui.html)
+- [Boostcourse] - WEB Programing Project-B
+- '할 일 관리' 웹 페이지를 개발하 프로젝트입니다
+- '할 일 관리'는 해야 할 일, 하고 있는 일, 한 일을 웹 브라우저에서 확인할 수 있는 웹 애플리케이션입니다.
+- [프로젝트 기획서](https://docs.google.com/presentation/d/163ZmA14C4OGB85QnlXMOo9vO9KFN3YzXYbTYPW7wngs/edit#slide=id.p4)
+- [기술요구사항](https://github.com/Ljuhun/naver-boostcourse-project/wiki/project02)
+- [데이터베이스 - ERD](https://docs.google.com/document/d/1pBowlJCG-6yUOoEBRmLKVbIHh2k25qIWUhS4bv7SMSk/edit)
 
 ![프로젝트2 구현](https://github.com/Ljuhun/naver-boostcourse-project/assets/89209356/46fdfccc-3803-41fe-9008-9895b64a2a0a)
 
@@ -68,9 +67,9 @@
 - [Boostcourse] - WEB Programing Project-C~F
 - 네이버 예약 서비스 클론 프로젝트입니다
 - 전시, 연극, 뮤지컬 등의 콘텐츠가 보이고, 각 아이템을 예약할 수 있습니다
-- [프로젝트 기획서](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D%EC%84%9C)
-- [기술요구사항](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EA%B8%B0%EC%88%A0%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD)
-- [데이터베이스 - ERD](https://github.com/wooojini/Boostcourse-Naver-Booking-Clone/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4---ERD)
+- [프로젝트 기획서](https://github.com/Ljuhun/naver-boostcourse-project/wiki/project03)
+- [기술요구사항](https://github.com/Ljuhun/naver-boostcourse-project/wiki/project03)
+- [데이터베이스 - ERD](https://docs.google.com/document/d/1S7_WCuwLT7JvGI1mJstQo-nofLrsgMq_tVO_VswMOrI/edit)
 - [API 명세서](http://49.236.147.192:9090/swagger-ui.html)
 
 ### 메인페이지
